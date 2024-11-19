@@ -1,7 +1,7 @@
 {
     "name": "idealingua1",
-    "displayName": "idealingua1",
-    "description": "idealingua1 markup language.",
+    "displayName": "Idealingua Legacy",
+    "description": "Syntax highlighting for Idealingua Legacy IDL/DML",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.28.0"
@@ -14,7 +14,8 @@
             {
                 "id": "idealingua1",
                 "aliases": [
-                    "Idealingua V1 Language",
+                    "Idealingua V1",
+                    "Idealingua Legacy",
                     "idealingua1"
                 ],
                 "extensions": [
