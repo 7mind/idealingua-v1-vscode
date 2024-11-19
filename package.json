@@ -2,7 +2,7 @@
     "name": "idealingua1",
     "displayName": "idealingua1",
     "description": "idealingua1 markup language.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.28.0"
     },
