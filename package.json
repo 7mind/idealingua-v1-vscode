@@ -2,7 +2,7 @@
     "name": "idealingua1",
     "displayName": "Idealingua Legacy",
     "description": "Syntax highlighting for Idealingua Legacy IDL/DML",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.28.0"
     },
