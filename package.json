@@ -1,0 +1,39 @@
+{
+    "name": "idealingua1",
+    "displayName": "idealingua1",
+    "description": "idealingua1 markup language.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "idealingua1",
+                "aliases": [
+                    "Idealingua V1 Language",
+                    "idealingua1"
+                ],
+                "extensions": [
+                    ".model",
+                    ".domain"
+                ],
+                "configuration": "./language-configuration"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "idealingua1",
+                "scopeName": "source.idealingua1",
+                "path": "./syntaxes/idealingua1.tmLanguage"
+            }
+        ],
+        "snippets": []
+    },
+    "repository": "https://github.com/7mind/idealingua-v1-vscode",
+    "publisher": "SeptimalMind",
+    "icon": "idealingua1.png"
+}
